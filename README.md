@@ -1,15 +1,12 @@
-<h1 align="center">👋 Hi, I'm Alan Lands</h1>
-<p align="center"><b>AI-assisted software delivery for enterprise applications</b> · Kochi, India</p>
+<img src="assets/hero.svg" width="100%" alt="Alan Lands">
 
 <p align="center">
-  <a href="https://github.com/Alanlands1"><img src="https://img.shields.io/badge/My%20other%20account-%40Alanlands1-111?style=for-the-badge&logo=github&logoColor=white" alt="Other GitHub account"></a>
-  <a href="https://www.youtube.com/c/Alanlands"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.kaggle.com/alanlands23"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://github.com/Alanlands1"><img src="assets/pill-other.svg" height="56" alt="My other account @Alanlands1"></a>
+  <a href="https://www.youtube.com/c/Alanlands"><img src="assets/pill-youtube.svg" height="56" alt="YouTube"></a>
+  <a href="https://www.kaggle.com/alanlands23"><img src="assets/pill-kaggle.svg" height="56" alt="Kaggle"></a>
 </p>
 
----
-
-## 📌 About Me
+<img src="assets/h-about.svg" width="100%" alt="About me">
 
 I build **AI-assisted software delivery pipelines** for enterprise applications: demos that take a change from business requirement through impact analysis, code generation, tests, independent review and release, with humans at every gate. Most of it runs on a synthetic insurer, **MapleSure Insurance**, so everything is shareable and nothing is client data.
 
@@ -19,56 +16,14 @@ I build **AI-assisted software delivery pipelines** for enterprise applications:
 - **AI-native engineering practice**: every repo carries `CLAUDE.md` and `AGENTS.md` rules, offline test suites and synthetic data only
 - On the side: small **e-commerce ventures in India**, run from one monorepo
 
----
+<img src="assets/h-skills.svg" width="100%" alt="Skills">
 
-## 🧠 Skills
+<img src="assets/skills-1.svg" width="100%" alt="Skills 1">
+<img src="assets/skills-2.svg" width="100%" alt="Skills 2">
+<img src="assets/skills-3.svg" width="100%" alt="Skills 3">
+<img src="assets/skills-4.svg" width="100%" alt="Skills 4">
 
-### 🤖 AI-assisted engineering
-<p align="center"><table><tr>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/><br><sub><b>Python</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.simpleicons.org/anthropic/D97757" height="48" alt="Claude"/><br><sub><b>Claude</b></sub></td>
-      <td align="center" width="110"><img src="https://avatars.githubusercontent.com/u/14957082?s=200https://cdn.simpleicons.org/openai/412991v=4" height="48" alt="OpenAI"/><br><sub><b>OpenAI</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="48" alt="Amazon Bedrock"/><br><sub><b>Amazon Bedrock</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="48" alt="Streamlit"/><br><sub><b>Streamlit</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" alt="FastAPI"/><br><sub><b>FastAPI</b></sub></td>
-</tr></table></p>
-
-### ⚙️ Backend & web
-<p align="center"><table><tr>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java"/><br><sub><b>Java</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="48" alt="Spring Boot"/><br><sub><b>Spring Boot</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="PHP"/><br><sub><b>PHP</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/><br><sub><b>JavaScript</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5"/><br><sub><b>HTML5</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3"/><br><sub><b>CSS3</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="48" alt="Flask"/><br><sub><b>Flask</b></sub></td>
-</tr></table></p>
-
-### 📊 Data & ML
-<p align="center"><table><tr>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch"/><br><sub><b>PyTorch</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn"/><br><sub><b>scikit-learn</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas"/><br><sub><b>pandas</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/><br><sub><b>Jupyter</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="Kaggle"/><br><sub><b>Kaggle</b></sub></td>
-</tr></table></p>
-
-### 🛠️ Tools, CI & platforms
-<p align="center"><table><tr>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/><br><sub><b>Git</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48" alt="GitHub Actions"/><br><sub><b>GitHub Actions</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="48" alt="GitLab"/><br><sub><b>GitLab</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="48" alt="Maven"/><br><sub><b>Maven</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="48" alt="pytest"/><br><sub><b>pytest</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48" alt="Playwright"/><br><sub><b>Playwright</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="48" alt="Cloudflare"/><br><sub><b>Cloudflare</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL"/><br><sub><b>MySQL</b></sub></td>
-      <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" alt="SQLite"/><br><sub><b>SQLite</b></sub></td>
-</tr></table></p>
-
----
-
-## 🚀 Featured Projects
+<img src="assets/h-projects.svg" width="100%" alt="Featured projects">
 
 ### 🤖 AI-assisted delivery
 
@@ -88,31 +43,26 @@ I build **AI-assisted software delivery pipelines** for enterprise applications:
 
 > _Learning projects, deep-learning notebooks and older web apps live on my other account: [github.com/Alanlands1](https://github.com/Alanlands1)_
 
----
-
-## 💼 Experience
+<img src="assets/h-experience.svg" width="100%" alt="Experience">
 
 **Tata Consultancy Services** · Kochi, India
 - Application maintenance and delivery for enterprise applications
 - Building AI-assisted SDLC demos and GitLab Duo custom agents
 
----
-
-## 🎓 Education
+<img src="assets/h-education.svg" width="100%" alt="Education">
 
 **B.Tech, Computer Science and Engineering**
 
----
-
-## 🔗 My other account
+<img src="assets/h-other.svg" width="100%" alt="My other account">
 
 Deep learning (diabetic retinopathy, dog breeds), Spring Boot and PHP projects: **[@Alanlands1](https://github.com/Alanlands1)**
 
-## 📫 Contact
+<img src="assets/h-contact.svg" width="100%" alt="Contact">
 
 **YouTube:** [youtube.com/c/Alanlands](https://www.youtube.com/c/Alanlands)
 **Kaggle:** [kaggle.com/alanlands23](https://www.kaggle.com/alanlands23)
 **GitHub:** [@AlanLands](https://github.com/AlanLands) · [@Alanlands1](https://github.com/Alanlands1)
 
 ---
-_Thanks for stopping by. Happy to talk about AI-assisted delivery, insurance apps, or building small businesses._
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by">
